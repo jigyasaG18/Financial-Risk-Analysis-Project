@@ -67,5 +67,6 @@ Previous_week_Reveneue = CALCULATE(
   - Overall Activation rate is 57.5%
   - Overall Delinquent rate is 6.06%
 ## Power BI Dashboards Images
-![Credit_Card_Report - Customer](https://github.com/user-attachments/assets/db01af30-c718-4e1d-b5f0-8887de373caa)
-![Credit_Card_Report - Transaction](https://github.com/user-attachments/assets/5d6029ab-8b19-44a6-89cb-e4aa14540b81)
+![Credit_Card_Report - Customer](https://github.com/user-attachments/assets/c690453a-1a5d-44e5-946b-ef8bfbdc0450)
+![Credit_Card_Report - Transaction](https://github.com/user-attachments/assets/c23e1c3d-ac6a-4fdb-b165-0ec77575da2e)
+
